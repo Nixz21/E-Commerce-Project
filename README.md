@@ -11,7 +11,7 @@ This repository contains my work for the mentorship tasks on basic e-commerce da
 ## Entity Relationships
 - Category to Product = One-to-Many
 - Customer to Orders = One-to-Many
-- Orders to Product = Many-to-Many through
+- Orders to Product = Many-to-Many
 - Orders to Order_details = One-to-Many
 - Product to Order_details = One-to-Many
 
