@@ -3,7 +3,7 @@
 This repository contains my work for the mentorship tasks on basic e-commerce database design.
 
 ## Files
-- `ERD.png`
+- `ERDiagram.png`
 - `Tables.sql`
 - `Data.sql`
 - `Queries.sql`
