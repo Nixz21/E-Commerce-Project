@@ -16,7 +16,7 @@ This repository contains my work for the mentorship tasks on basic e-commerce da
 - Product to Order_details = One-to-Many
 
 ## ER Diagram
-![ER Diagram](ERD.png)
+![ER Diagram](ERDiagram.png)
 
 ## Table Creation Script
 
